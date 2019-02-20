@@ -1,0 +1,47 @@
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\parking.exe.config
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\Emgu.CV.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\Emgu.Util.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\tesseractengine3.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\Interop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\Interop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.csproj.ResolveComReference.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.Form1.resources
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\x86\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\usb_relay_device.dll
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\parking.exe.config
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\parking.exe
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\DeviceDriver.dll
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.Form1.resources
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.exe
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\obj\x86\Debug\parking.csprojAssemblyReference.cache
+C:\Users\jk\Desktop\test tinh tien\parking\bin\x86\Debug\DeviceDriver.pdb
+C:\Users\jk\Desktop\parking\parking\bin\x86\Debug\usb_relay_device.dll
+C:\Users\jk\Desktop\parking\parking\bin\x86\Debug\parking.exe.config
+C:\Users\jk\Desktop\parking\parking\bin\x86\Debug\parking.exe
+C:\Users\jk\Desktop\parking\parking\bin\x86\Debug\parking.pdb
+C:\Users\jk\Desktop\parking\parking\bin\x86\Debug\DeviceDriver.dll
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.csprojAssemblyReference.cache
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.Form1.resources
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.exe
+C:\Users\jk\Desktop\parking\parking\obj\x86\Debug\parking.pdb

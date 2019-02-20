@@ -1,0 +1,9 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  DeviceDriver.cpp
+  RelayController.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DeviceDriver.vcxproj -> C:\Users\jk\Desktop\Dien Tu\usb-relay-master\usb-relay-master\Debug\DeviceDriver.dll

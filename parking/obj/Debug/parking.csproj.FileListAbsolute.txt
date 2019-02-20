@@ -1,0 +1,107 @@
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\parking.exe.config
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\parking.exe
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\parking.pdb
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\AForge.dll
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\bin\Debug\AForge.Video.dll
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.csprojResolveAssemblyReference.cache
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.Form1.resources
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.Properties.Resources.resources
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.CopyComplete
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.exe
+c:\users\thanh_ho\documents\visual studio 2017\Projects\parking\parking\obj\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\Debug\parking.exe.config
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.Form1.resources
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\bin\Debug\parking.exe.config
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\bin\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\bin\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.csprojResolveAssemblyReference.cache
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.Form1.resources
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\parking\parking\obj\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\parking.exe.config
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.csprojResolveAssemblyReference.cache
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.Form1.resources
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.exe
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\obj\Debug\parking.pdb
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.dll
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.Video.dll
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.xml
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.Video.xml
+C:\Users\jk\Documents\Visual Studio 2017\Project\parking\parking\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\Debug\Interop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\Interop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.ResolveComReference.cache
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Documents\Visual Studio 2017\Projects\parking\parking\obj\Debug\parking.csprojAssemblyReference.cache
+D:\pham mem giu xe cho 4s\parking\parking\bin\Debug\parking.exe.config
+D:\pham mem giu xe cho 4s\parking\parking\bin\Debug\parking.exe
+D:\pham mem giu xe cho 4s\parking\parking\bin\Debug\parking.pdb
+D:\pham mem giu xe cho 4s\parking\parking\bin\Debug\Interop.AXVLC.dll
+D:\pham mem giu xe cho 4s\parking\parking\bin\Debug\AxInterop.AXVLC.dll
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.csprojAssemblyReference.cache
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\Interop.AXVLC.dll
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\AxInterop.AXVLC.dll
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.csproj.ResolveComReference.cache
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.Form1.resources
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.Properties.Resources.resources
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.csproj.GenerateResource.cache
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.exe
+D:\pham mem giu xe cho 4s\parking\parking\obj\Debug\parking.pdb
+D:\pham mem giu xe cho 4s\test tinh tien\parking\bin\Debug\parking.exe.config
+D:\pham mem giu xe cho 4s\test tinh tien\parking\bin\Debug\parking.exe
+D:\pham mem giu xe cho 4s\test tinh tien\parking\bin\Debug\parking.pdb
+D:\pham mem giu xe cho 4s\test tinh tien\parking\bin\Debug\Interop.AXVLC.dll
+D:\pham mem giu xe cho 4s\test tinh tien\parking\bin\Debug\AxInterop.AXVLC.dll
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.csprojAssemblyReference.cache
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\Interop.AXVLC.dll
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\AxInterop.AXVLC.dll
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.csproj.ResolveComReference.cache
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.Form1.resources
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.Properties.Resources.resources
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.csproj.GenerateResource.cache
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.exe
+D:\pham mem giu xe cho 4s\test tinh tien\parking\obj\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\parking.exe.config
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\parking.exe
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\Interop.AXVLC.dll
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.csprojAssemblyReference.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\Interop.AXVLC.dll
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.csproj.ResolveComReference.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.Form1.resources
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.Properties.Resources.resources
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.csproj.GenerateResource.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.csproj.CoreCompileInputs.cache
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.exe
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.pdb
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\usb_relay_device.dll
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\DeviceDriver.dll
+C:\Users\jk\Desktop\test tinh tien\parking\obj\Debug\parking.csproj.CopyComplete
+C:\Users\jk\Desktop\test tinh tien\parking\bin\Debug\DeviceDriver.pdb

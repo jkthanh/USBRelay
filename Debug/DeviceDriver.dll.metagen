@@ -1,0 +1,96 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly DeviceDriver, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Interface DeviceDriver.IDeviceDriver: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Methods:
+    UsbRelayInit(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayExit(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceEnumerate(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceFreeEnumerate(usb_relay_device_info*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceClose(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceOpen(usb_relay_device_info*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceOpenWithSerialNumber(SByte*, UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceOpenOneRelayChannel(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceOpenAllRelayChannel(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceCloseOneRelayChannel(Int32, Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceCloseAllRelayChannel(Int32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    UsbRelayDeviceGetStatus(Int32, UInt32*): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Interface DeviceDriver.IRelayChannelInfo: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Properties:
+    DeviceDriver.ChannelState State 'get ' : 
+    DeviceDriver.ChannelIndex Index 'get ' : 
+  Methods:
+    get_Index(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_State(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Interface DeviceDriver.IRelayDeviceInfo: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Properties:
+    DeviceDriver.DeviceType Type 'get ' : 
+    System.String DevicePath 'get ' : 
+    System.String SerialNumber 'get ' : 
+  Methods:
+    get_SerialNumber(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_DevicePath(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+    get_Type(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract, SpecialName
+Interface DeviceDriver.IRelayController: AutoLayout, AnsiClass, Class, Public, ClassSemanticsMask, Abstract, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Methods:
+    ListDevices(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ListChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    GetChannelInfo(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ConnectDevice(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OpenChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CloseChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    ToggleChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    OpenAllChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+    CloseAllChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract
+Class DeviceDriver.RelayController: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    DeviceDriver.IRelayController
+    System.IDisposable
+  Methods:
+    ListDevices(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ListChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetChannelInfo(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ConnectDevice(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    OpenChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CloseChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ToggleChannel(IRelayDeviceInfo, ChannelIndex): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    OpenAllChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    CloseAllChannels(IRelayDeviceInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct DeviceDriver.DeviceType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DeviceDriver.DeviceType SingleChannel = 1 : Public, Static, Literal, HasDefault
+    DeviceDriver.DeviceType DoubleChannel = 2 : Public, Static, Literal, HasDefault
+    DeviceDriver.DeviceType QuadChannel = 4 : Public, Static, Literal, HasDefault
+    DeviceDriver.DeviceType EightChannel = 8 : Public, Static, Literal, HasDefault
+Struct DeviceDriver.ChannelIndex: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DeviceDriver.ChannelIndex One = 1 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Two = 2 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Three = 3 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Four = 4 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Five = 5 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Six = 6 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Seven = 7 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelIndex Eight = 8 : Public, Static, Literal, HasDefault
+Struct DeviceDriver.ChannelState: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    DeviceDriver.ChannelState Closed = 0 : Public, Static, Literal, HasDefault
+    DeviceDriver.ChannelState Opened = 1 : Public, Static, Literal, HasDefault
